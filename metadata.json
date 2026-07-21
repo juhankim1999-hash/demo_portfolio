@@ -1,0 +1,6 @@
+{
+  "name": "서달미 서비스기획자 포트폴리오",
+  "description": "서비스기획자 서달미의 1페이지 대시보드형 포트폴리오 홈페이지입니다. 문제 정의, 사용자 조사, 기능 우선순위화, 결과 검증으로 이어지는 기획 사고 과정을 보여줍니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
